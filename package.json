@@ -1,11 +1,11 @@
 {
-  "name": "@areo/capacitor-codepush",
-  "version": "0.2.0",
+  "name": "capacitor-codepush",
+  "version": "0.3.0",
   "description": "CodePush Plugin for Capacitor",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
-  "homepage": "https://github.com/areo/capacitor-codepush",
-  "repository": "github:areo/capacitor-codepush",
+  "homepage": "https://github.com/chrisf15/capacitor-codepush",
+  "repository": "github:chrisf15/capacitor-codepush",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
